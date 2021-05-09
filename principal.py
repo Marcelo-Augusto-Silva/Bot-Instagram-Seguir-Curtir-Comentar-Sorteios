@@ -177,3 +177,4 @@ if escolha == 4:
             if escolha[0].upper() == 'N':
                 break
             continue
+        
